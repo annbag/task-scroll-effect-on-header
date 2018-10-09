@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  height: 100vh;
+  background-image: url("https://images.pexels.com/photos/163822/color-umbrella-red-yellow-163822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+main {
+  min-height: 150vh;
+  background-color: #000;
+}
